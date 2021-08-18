@@ -12,4 +12,4 @@ to
     /mnt/c/Users/USERNAME/Pictures/Wallpaper
       
 and add .png suffix to those files.
-Replace USERNAME and XXXXXXXXXXXXX to the actual user name and the path. XXXXXXXXXXXXX is randomly generated on each pc.
+Replace USERNAME and XXXXXXXXXXXXX to the actual user name and path. XXXXXXXXXXXXX is randomly generated on each pc.
